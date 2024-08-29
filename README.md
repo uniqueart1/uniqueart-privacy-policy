@@ -57,3 +57,45 @@
 </footer>
 </body>
 </html>
+<section>
+    <h2>Introduction</h2>
+    <p>Welcome to the privacy policy of UniqueArt. This page explains how we handle your personal data when you use our services.</p>
+</section>
+
+<section>
+    <h2>Information We Collect</h2>
+    <p>We collect various types of information, including...</p>
+</section>
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 20px;
+    padding: 20px;
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+header {
+    background: #333;
+    color: #fff;
+    padding: 10px 0;
+    text-align: center;
+}
+
+h1, h2, h3 {
+    color: #444;
+}
+<link rel="stylesheet" href="style.css">
+<section>
+    <h2>Contact Us</h2>
+    <p>If you have any questions about this Privacy Policy, you can contact us at:</p>
+    <p><strong>UniqueArt</strong></p>
+    <p>Email: support@uniqueart.com</p>
+</section>
+<footer>
+    <p>&copy; 2024 UniqueArt. All Rights Reserved.</p>
+</footer>
+
