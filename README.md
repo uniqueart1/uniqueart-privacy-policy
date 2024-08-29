@@ -40,3 +40,20 @@
         <h1>Privacy Policy</h1>
         <p>Effective Date: August 28, 2024</p>
     </header>
+<section>
+    <h2>Introduction</h2>
+    <p>Welcome to the privacy policy of UniqueArt. This page explains how we handle your personal data when you use our services.</p>
+</section>
+
+<section>
+    <h2>Information We Collect</h2>
+    <p>We collect various types of information, including...</p>
+</section>
+
+<!-- Continue with the rest of your privacy policy content -->
+
+<footer>
+    <p>&copy; 2024 UniqueArt. All Rights Reserved.</p>
+</footer>
+</body>
+</html>
